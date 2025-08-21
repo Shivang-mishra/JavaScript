@@ -8,10 +8,7 @@ let score=true;
 //"33"=>33;
 //"33abs"=>nan
 //true=>0;
-// let isLogedin= ""
-// let BooleanisLogedin=Boolean(isLogedin);
-// console.log(BooleanisLogedin);
-
+// lo
 
 // 1=>true
 // 0=>false
