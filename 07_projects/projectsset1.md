@@ -4,7 +4,7 @@
 [click here](https://stackblitz.com/edit/dom-project-chaiaurcode?file=1-colorChanger%2Fchaiaurcode.js)
 
 # solution code
-## project 1
+## project 1 (color changer)
 ```javascript
 const buttons = document.querySelectorAll('.button');
 const body = document.querySelector('body');
@@ -28,7 +28,7 @@ buttons.forEach(function (button) {
 
 
 ```
-## project 2
+## project 2 (bmi calculator)
 ``` javascript
 const form= document.querySelector('form')
 form.addEventListener('submit',function(e){
